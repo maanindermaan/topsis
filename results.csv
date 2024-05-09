@@ -1,0 +1,1023 @@
+domain,models,dialogue,summary,cosine_similarity,rouge_score,semantic_similarity,tfidf_similarity,bleu_score
+CARDINAL,M1,"May: Hi! I just got three tickets for Muse concert, wanna join? :)
+Jay: Whaaaat!!! A-M-A-Z-I-N-G!
+May: hahahaha :) So?
+Jay: Of course! When, where?
+May: In two weeks, O2.
+Jay: Omg, this is perfect!
+Jay: Who else is coming?
+May: I'm going with Mark. Basically we got two tickets, but our colleague couldn't come so...
+Jay: Omg, thank them so much! :D
+May: No problem ;)
+Jay: I owe you a bottle of wine for this! <3
+May: Hahaha, don't be silly :)
+Jay: Can't wait, oh my, really can't wait <3","In 2 weeks May, Jay and Mark will go together to a Muse concert at the O2 Arena.",0.4951256215002756,0.1111111079111112,0.3191329845906122,0.3684336964241868,0.0
+CARDINAL,M2,"Adrian: Hey, see u at the entrance in 10?
+Joy: Yesss please, I’m falling asleep already
+Joy: ⚰️
+Maria: Cool, I’ll see you guys in a bit then
+Adrian: 👍🏻👍🏻👍🏻","Adrian, Joy and Maria will meet at the entrance in 10 minutes.",0.7037918380958331,0.2105263114681441,0.2688246286750008,0.4519407243273513,0.077722
+CARDINAL,M3,"Bret: two first people to reply are getting a free copy of a game on steam lol my brother botched it when buying a coop game for us
+Kit: ngdfngdgndfg
+Gabe: here I am!
+Gabe: gamer Gabe, the Gaber!
+Bret: hhahah congrats guyz i'll send you the codes
+Dan: why am i always late for every-fukken-thing?!!?!?",Kit and Gabe were first to reply to Bret so they are getting a free copy of a game on steam from him. Dan is dissapointed he was late.,0.5717931284770562,0.3421052585768698,0.7102574610052976,0.5440701948724862,0.169523
+CARDINAL,M4,"Nasmith: guys prisoners on channel 4
+Jarman: with jake g and hugh jackman
+Nasmith: the same one
+Jarman: seen it. really good one
+Eldon: i haven't. thx for info","""Prisoners"" is airing on Channel 4 now. Jarman has already seen it and likes it. Eldon hasn't seen it.",0.5638807829589104,0.2380952333786848,0.6139580036448624,0.3232237416583778,0.0
+CARDINAL,M5,"Carden: have you seen 50 shades of grey?
+Ashley: i read the book. quite likes it
+Carden: but film?
+Ashley: no not yet. why?
+Carden: i got the dvd, wanna come over?
+Gilda: ladies i've seen it and quite frankly its a waste of time
+Carden: oh really?
+Gilda: yeah i mean it. the book was quite ok
+Ashley: i thought so too
+Gilda: but the film was just nonsense
+Ashley: why u think so?
+Gilda: it was just boring. awfully boring
+Carden: u mean the first part or the sequel?
+Gilda: oh christ almighty i dont even know theres a sequel
+Carden: so you've seen the first one only? perhaps sequel is better?
+Gilda: cant tell. sequels are usually worse tho
+Carden: well i got the full set actually. that's three films
+Gilda: ugh. you wont make me watch that sry
+Ashley: maybe we should do sth else hey?
+Carden: yeah maybe you 2 r right. some other time","Carden got the whole ""50 shades of gray"" trilogy on DVD. She wants to watch it with Ashley and Gilda. Ashley and Gilda liked the book, but Gilda thinks the film is a complete waste of time. She's not interested in watching it. They're going to do something else instead.",0.6469530761480798,0.2206896511162902,0.7425455510219852,0.4346330305369473,0.0
+DATE,M1,"Molly: Wanna do some shopping on Saturday?
+Kim: huh;D shopping, what do you need to buy?
+Molly: a dress, for a a wedding
+Misty: I didn't you guys are going somewhere, I thought Katie's wedding is your next party, but that's in like 6 months
+Molly: it is, but I am talking about shopping a wedding dress for me
+Kim: NO SHIT!!!! OMG!!! congratulations!!!!
+Misty: Whaaaaat:D and you're telling us now!?
+Molly: hahah ladies, it's a fresh thing, we got engaged like a few days ago, I wanted to cherish this moment for a bit with Tom alone, and now we're sharing with friends and family 
+Kim: I am so happy for you guys! Let's celebrate on Saturday!
+Misty: Let's! I am so happy too!",Molly has to buy a wedding dress. She got engaged to Tom a few days ago. She will celebrate it with Kim and Misty on Saturday.,0.6408082085489247,0.2545454512380165,0.7745704739133115,0.5283159506141334,0.0
+DATE,M2,"Molly: Any big plans for 2019?
+Isaac: hmm, I'm considering going to the conference in San Fransisco in 2019
+Isaac: and then maybe flying to Tahiti, I've always dreamt about it and I think it's an opportunity
+Jose: wow, that sounds really nice, maybe it's a good idea
+Isaac: I think so, it's not even too expensive when one flies from San Francisco
+Isaac: maybe anybody would like to join me?
+Jose: I'd love to! But it's still very expensive I suppose?
+Isaac: about 1000€ for the flights
+Molly: really? I thought they are much more expensive
+Isaac: no, they are actually not that expensive
+Isaac: I mean still a lot, but not undoable
+Molly: True, I may consider it
+Isaac: Think about it guys and let me know
+Jose: I will!",Isaac wants to go to Tahiti in 2019. Jose and Molly consider going with him.,0.5948260334119921,0.1188118788001176,0.6764099976093537,0.4118289296316668,0.0
+DATE,M3,"Gina: Dear all, I’m afraid I need to bring up a difficult issue today.
+Michael: What’s the matter, Gina?
+Gina: There has been another burglary in the neighbourhood.
+Kate: This is terrible!
+Daniel: Where was it? This is the third one only this week!
+Gina: Fortunately no one’s been injured. They stole a tv, two laptops and a bit of cash.
+Michael: What does the police say?
+Gina: Nothing yet, they’re investigating.
+Kate: I bet this is some kind of a gang.
+Daniel: A gang? 
+Kate: Well, no one can get a tv, laptops and all this stuff on their own.
+Gina: Regardless, I think it’d be a good thing to organise a neighbourhood watch.
+Michael: Good thinking!
+Daniel: Definitely. I know a friend who did this with his neighbours and it worked out pretty great.
+Kate: How did they organise it? Did they have a schedule?
+Daniel: Well, basically, they were patrolling the streets twice a day – during the day and in the evening, always in twos.
+Gina: Could you please talk to your friend so they can help us organise it?
+Daniel: Sure, no problem.
+Kate: I think that we can also organise a fundraising for CCTV.
+Michael: Hm, I’m not so sure people will be keen on this. They value their privacy, you know.
+Daniel: Well, I understand, but I kind of value my safety more.
+Gina: It wouldn’t hurt to bring this up at the next meeting. Saturday is it?
+Kate: Yes, I can talk to them. I’m not a big fan of camera either, but in this case it may be the best solution.
+Daniel: Especially as the police is not doing their job. Three burglaries in a week is three too many in my opinion.
+Gina: It’s not an easy case, but I think CCTV may help to catch them if not to scare them away.
+Michael: Hm, let’s wait until Saturday so we can speak to others. We can’t do anything without their approval.
+Daniel: I’d happily suggest organising the neighbourhood watch.","There has been another burglary in the neighbourhood. They stole a tv, two laptops and a bit of cash. The police are investigating. Gina, Daniel, Kate and Michael will talk about a neighbourhood watch, e.g. a CCTV, at the next meeting on Saturday.",0.5620461779074578,0.2337662310174097,0.8028205486633214,0.5083184682445732,0.055983
+DATE,M4,"Frederic: Mornin'! How's Monday? Mine sucks.
+Alma: Hey, hey! I hate Mondays!
+Frederic: <file_photo>
+Alma: Hahaha, you're crazy! You dressed up like that for work?",Frederic's Monday sucks. Alma hates Mondays too.,0.721254712188353,0.066666663088889,0.5440579085572294,0.4499102765057844,0.0
+DATE,M5,"Amber: Did anyone see my flower necklace? I must have lost it at the party yesterday.
+Gabriel: I'll look for it in my flat as soon as I get to cleaning.
+Amber: You haven't started yet? It's 6 p.m.!
+Gabriel: You might not remember it, but the last guests left at 6 a.m. I needed some sleep.
+Amber: Hey, I do remember leaving the party :P 
+Glen: Yeah, but do you also remember getting back home?
+Amber: Erm, not exactly XD
+Glen: That's because you fell asleep in my car :P
+Amber: Oops, sorry. But you didn't have to carry me inside, did you?
+Glen: Well, someone had to :P
+Amber: Sorry again XD
+Mariah: I think I've got your necklace. It was in my pocket, I've no idea how it got there. Is it silver?
+Amber: Yes, a silver flower with a green stone in the middle.
+Mariah: <file_photo> This one?
+Amber: Yes! Thanks, I was really worried it was gone for good.
+Mariah: No problem, I'll bring it to the office on Monday.
+Amber: Okay.
+Mariah: @Gabriel, do you need any help cleaning your flat? I feel bad about all that mess we've left you with.
+Gabriel: No, don't worry, it's not that bad. I'll take care of it as soon as I finish breakfast.
+Glen: More like supper :P
+Gabriel: Nope, breakfast is all about breaking the fast. I've fasted since last night, so I'm eating breakfast right now XD
+Amber: Never argue with a linguist :D",Amber lost her flower necklace. Gabriel will look for it when cleaning. Mariah found it in her pocket and she will bring it to the office on Monday. ,0.5516917256093771,0.1530054621218907,0.8246726379075239,0.4105820615493438,0.030855
+EVENT,M1,"Lang: so theress an xbox up for sale on ebay
+Hugo: youve been looking for one since..
+Hugo: last month?
+Lang: yeah :D
+Hugo: so? are you gonna take the offer?
+Lang: im thinking about it
+Lang: i mean i would have to spend some extra on the modification and stuff but.. 
+Lang: its a good deal
+Lang: what do you think?
+Hugo: if its good for you.. 
+Hugo: i say go for it
+Lang: im going to have a look at its condition tomorrow
+Lang: care to join me??
+Hugo: sure. just text me when and ill show up
+Lang: cool (Y)",Lang found an xbox on ebay. He's been looking for it for a month. Hugo and Lang are meeting tomorrow to assess its condition.,0.7585412914083364,0.3260869528827977,0.6542436041937153,0.568576328866243,0.0
+EVENT,M2,"Hugo: Hey guys, so I've just booked an apartment for us. Have a look if you have the time <file_other>. You should have received an email from Airbnb asking you to pay your part, so let me know if you haven't gotten it.
+Cristina: I've paid already 🏆
+Ashley: Me too. Thanks Hugo!
+Kim: I'm at work but will try to pay as soon as I get back home this evening. Thanks so much for this Hugo, I'm drowning in work and it's been a lifesaver for me
+Hugo: No worries 😉 Hope you'll like the apartment. It's a little far from the conference venue, but it was really cheap so I thought we wouldn't mind walking a little bit
+Cristina: ofc Good choice!!
+Ashley: I totally agree. Also, it's only a couple weeks away! Yay!
+Hugo: Yeah, I'm actually freaking out a little bit atm cause I haven't finished the paper yet, but I should be fine
+Kim: I can relate to that. Haven't written a single word yet. And perhaps I won't - I might be tempted to make some v basic notes and then improvise
+Ashley: I'm totally doing that 😅
+Hugo: Glad to be in good company ✨
+Ashley: 😘","Hugo has just booked an apartment for them on Airbnb. Christina and Ashley have already paid, Kim will do it when she's back from work. The conference is in a few weeks. Hugo, Ashley and Kim don't have their papers ready yet.",0.5951076112674242,0.225988697193016,0.8387067717426666,0.3906559556850625,0.02282
+EVENT,M3,"Hugo: not sure if you're checking your ""official"" e-mail but tomorrows lecture has been canceled
+Nathan: history?
+Hugo: yeah, seems like the geezer is sick again
+Hugo: not that I will complain about that
+Nathan: he's not that bad
+Hugo: are you kidding me?
+Hugo: last week I almost fell asleep because of him
+Nathan: you never were a big fan of history anyway ;)
+Hugo: anyway, we have a free hour during the day
+Hugo: want to try that new chinese place near the univ?
+Nathan: sure, why not
+Hugo: then it's settled, chinese food tomorrow!","Hugo and Nathan's history lecture has been called off, so they'll go for Chinese during their free hour.",0.5890353138015229,0.1521739098960303,0.7617764227887527,0.4653456811015643,0.0
+EVENT,M4,"Henry: Have you got plans for the New Year's eve?
+Dona: No, not yet. 
+Henry: Friends are throwing a house party, would you like to come with me?
+Dona: Sure, why not! :)",Dona will come with Henry to his friends' house party for New Year's Eve.,0.8109177382523202,0.3181818138429752,0.7344912153084878,0.7351490286838793,0.0
+EVENT,M5,"Ella: Any plans for New Year's?
+Carter: not really
+Scarlett: Jeff wants to stay home 🤦‍♀
+Carter: Exciting 😂
+Scarlett: very
+Ella: what about a trip to Paris?
+Scarlett: Isn't it EXTREMELY expensive?
+Ella: not necessarily 
+Carter: I think besides the one night, it's after all off season 
+Ella: Exactly. Especially if we stay a bit longer, then the flights are actually quite cheap
+Scarlett: I'll ask Jeff
+Carter: but I'm in! no better plans for now, and this one sounds really good
+Ella: It would be my first time in Paris, so I would love to see sth in January
+Carter: Nice, I think going to Louvre could be nice
+Scarlett: I spent there 3 days the last time I was in Paris, it's just incredible what they have there
+Ella: Mona Lisa etc?
+Scarlett: they have beautiful and huge collection of antiquities from Egypt and Greece. Just stunning 
+Ella: Carter, you're an art historian, I would like to go with you!
+Carter: I can be your guide, sure
+Scarlett: Gosh, guys, It sounds great already. I hope that my grumpy Jeff will not object
+Carter: But don't force him, if he doesn't want to go. I think he suffered a bit with us in Greece.
+Scarlett: He had a flu. I think he liked it, just didn't feel well.
+Carter: ok.",They want to go to Paris for New Year's Eve. Ella has not been to Paris and she looks forward to seeing the Louvre with Carter. Scarlett hopes Jeff will accept the plan.,0.5318472891814794,0.1387283209863343,0.7928418072004506,0.3473958655190536,0.0
+FAC,M1,"Ahmed: hi guys, let's meet at Yateem Centre at 2
+John: I'm still in the souq, I won't be free before 3
+Ali: I really hate Yateem, can't we meet somewhere else?
+Ahmed: like where?
+Jeff: I don't even know where the centre is LOL
+Ali: just at the Bab Al Bahrain
+Jeff: for me it's perfect, it's next to my hotel
+Ali: and then we can go to Naseef Restaurant for late lunch
+John: sounds good to me
+Ahmed: ok, I don't mind as well
+Ali: so at 3?
+Ahmed: ok
+John: yes!","Ahmed wants to meet Ali, John, and Jeff at Yateem Centre at 2 but John is in the market until 3, Ali dislikes Yateem, and Jeff is unfamiliar with the location. They agree to meet at the Bab Al Bahrain at 3 and have a late lunch at Naseef Restaurant. ",0.7429254819167744,0.3518518472376544,0.5670043195239448,0.5681106431548516,0.097449
+FAC,M2,"Jan: Hi all. Does anyone know the best way to get to Dyrham Park from here?
+Danny: where is here?
+Jan: haha that would be home. 
+Danny: ooooh no idea
+Jan: helpful! 🙍
+Chay: You can go over the A4 and then through Bath but that will be very busy. Probably better to take the ringroad until Emersons Green and then go right on Weedsground roundabout. Follow that A36 or A35 or something until you see signs, pretty straightforward. When are you going?
+Jan: I'm thinking of going on Monday?
+Chay: just avoid rush hour and then it won't be very busy on the ringroad. Bath is always busy!
+Victor: we went the other day, lush there! we came off the M4 but that's not very practical for you...
+Jan: that's good to know though, my parent s would be coming from that way. 
+Jan: thanks all!! 😙",Jan is going to Dyrham Park on Monday. Victor went there few days ago.,0.3866804855067375,0.1206896530499405,0.7464058534182733,0.2901840754573169,0.0
+FAC,M3,"Lam: I'm at the gate
+Pati: Have a safe flight
+Larry: See you tomorrow!! ",Lam is about to take a flight. He will see Larry tomorrow.,0.6417859172384626,0.1538461488757398,0.5226524004132339,0.6348087971775132,0.0
+FAC,M4,"Daphne: Have you heard of the boat off Guinea-Bissau?
+Flora: Yes, it's horrible
+Daphne: but where did they try to get?
+Flora: it's hard to say, I talked to a naval officer today
+Flora: and even they are not sure, but this used to be a popular road to the Canary Islands
+Angus: Yes, this is what I read
+Daphne: for gods sake, Canaries are about 1800km from there
+Arlo: correct, it's insane
+Arlo: what makes the whole thing even more tragic
+Frederic: Did anybody survive?
+Arlo: not even a body was found
+Arlo: just the boat
+Flora: but it's really a mess here, the situation is getting worse
+Arlo: and the humanitarian aid?
+Flora: you know my opinion on NGOs, sometimes I think they only make a situation worse
+Arlo: I know, I saw it in Haiti
+Flora: but here it's maybe even worse, Guinea-Bissau became the main point of drug smuggling from Latin America
+Flora: at least it seems so
+Arlo: i know, miserable and hopeless...","There was a boat found off Guinea-Bissau coast. There are no survivors. Flora talked to a naval officer today. Angus read they wanted to get to the Canary Islands, 1800 km away. Guinea-Bissau became the principal route of drug smuggling from Latin America.",0.4270019087665008,0.3172413755091557,0.8054603481487853,0.2620917552231785,0.059452
+FAC,M5,"Harper: I wanna go to Disneyland!
+Ashlee: Honey, we don’t have enough money
+Harper: Mom, you work all the time!!!
+Ashlee: It doesn’t mean I earn enough sweety and we also have some debts.
+Harper: Bullshit.
+Ashlee: Behave yourself young lady!!",Harper wants to go to Disneyland but Ashlee can't afford it despite working a lot.,0.5755336919618941,0.0851063787958354,0.7539647096527644,0.2742195073755101,0.0
+GPE,M1,"Giulia: Hey, when are you travelling to Brazil? Sorry, I remember you told me but I can't seem to remember
+Paul: In February!!
+Giulia: Are you visiting Tom?
+Paul: Yeah, I do think so!! He definitely offered to house me when I'm in Bahia
+Giulia: Cool. Where else are you going to go?
+Paul: Mainly the North-East
+Giulia: Nice, the poorer part then
+Paul: Yep
+Giulia: Funny but I'd probably try to get out of Rio or S Paolo as fast as I could and take refuge in Brasilia, then Rio Grande do Sul (which, I gather is incidentally the most right-wing region ehemmmmmm)
+Paul: Well, it's not like I'm uninterested in these places but I only have 5 weeks and it's such a big country
+Paul: I don't want to make any plans before I go, but it would be great to return and see more of it
+Giulia: I'd also like to go. Actually I was checking the tickets the other day. They're not as expensive as I thought actually
+Giulia: How much have you paid?
+Paul: 650 EUR return
+Giulia: Not bad
+Paul: Anyway, you're travelling in February. Shall we skype soon?
+Giulia: Sure, just call me when you have the time
+Paul: Cool xx",Paul is going to Brazil for 5 weeks in February. He will visit Tom when he's in Bahia. He will travel mainly in the North-East. His return ticket cost 650 EUR.,0.2920039696547322,0.1863354009351491,0.650939917247354,0.2499302201061654,0.0
+GPE,M2,"Sara: Hi dear, I'm going shopping and was wondering what I should make for dinner.
+Ana: Hm, good question.
+Sara: Is Daniel allergic to anything?
+Ana: Allergic no, but lactose intolerant.
+Sara: That definitely doesn't make it easier.
+Ana: If it's a problem, don't worry about it. He can take his medication and should be fine.
+Sara: No, no, no, I'll figure something out :)
+Ana: But really, Sara, Daniel's absolutely fine, don't go out of your way just for us.
+Sara: Nonsense. I was thinking about making many varied dishes than just one. What cuisine do you like?
+Ana: I'm not a picky eater and Daniel's quite adventurous, so we're easy, except for Daniel's intolerance.
+Sara: Ok, fusion it is then :)
+Ana: Do you need me to bring anything?
+Sara: Hm, maybe something sweet, if you don't mind?
+Ana: No problem at all!
+Sara: Perfect, I'm awful at baking, so I'd appreciate your help with that.",Sara is looking for dinner ideas that would take Daniel's lactose intolerance into consideration. Ana will bring dessert at her request.,0.4541900069511745,0.1492537287001559,0.7762255495881736,0.3394642851595657,0.0
+GPE,M3,"Neville: hi
+Jordan: hey
+Neville: how are you?
+Jordan: ok
+Neville: can i borrow your excercise set?
+Jordan: YOU are going to excercise?!
+Neville: i know, i know..
+Jordan: what happened?!
+Neville: Drew told me she like sporty guys
+Jordan: and you are going to be one of them? xd
+Neville: ofc, why not?
+Jordan: it will take years!
+Neville: wait, its not so bad with me!
+Neville: maybe months.. xd","Neville wants to use Jordan's exercise set, because Drew likes athletic men.",0.5579285364739386,0.0624999969531251,0.5549185159147116,0.3145364705374154,0.0
+GPE,M4,"Paulina: What time are you arriving tomorrow?
+Tom: we should land about 1PM
+John: But we won't get to Antwerp before 6PM
+Paulina: Perfect, since I'm finishing work at 5.30
+Paulina: So I can pick you up from the station Berehem
+Tom: So nice of you!
+John: you don't have to
+Paulina: but I'm so happy you're coming
+John: <3","Tom and John are landing at 1PM, and will be in Antwerp around 6PM. Paulina will pick Tom and John at Berehem.",0.6406470251528953,0.184615380904142,0.4009553760383852,0.6054046226124452,0.0
+GPE,M5,"Lukass: Heyoo
+Marta: Hi Lukaaaas
+Lukass: How are yaa?
+Marta: Not bad hahaha and u?
+Lukass: Pretty good 😊
+Lukass: Watcha doing?
+Marta: Sitting with my sister. Just talking. And u?
+Lukass: Almost the same but my sister is watching TV and is angry at me :P
+Marta: hahahah Why is she angry😊?
+Lukass: She’s always angry at me because I always tell her what to do and then she just shouts out 
+Marta: OMG maybe be nicer to her, at least a little bit
+Lukass: i’m very nice to her, she’s the mean one 😊
+Marta: Buaaaahahahah, yaaaas, of course :D","Marta spends time with her sister. Lukass also, but his sister ignores him and is mad at him, because he always tells her what to do.",0.4985925687406072,0.2474226766882772,0.7313281998535606,0.3291527770565732,0.0
+LANGUAGE,M1,"Constance: Have you seen that there is a course of Hebrew at the uni?
+Martha: yes, but it's very expensive
+Willow: about £300
+Thomas: but there are grants if a course is useful for your career or study
+Constance: really?
+Thomas: sure, in collages
+Thomas: just ask
+Constance: I will!","Constance, Martha, Willow and Thomas are interested in a Hebrew course at their university. The course costs about £300, but there are grants if it turns out to be useful for students' study or career.",0.6985771070754472,0.4324324274908692,0.8142572688594147,0.5329319705352492,0.096535
+LANGUAGE,M2,"Jess: Hey did you want to take training in English? I was told I have to get a group together so let me know when you can do it if you want 
+Mike: yes, sure, why not?? :) I am free after our class on Wednesday, I reckon we are together in this? :) after 4 ok?
+Jess: ok yeah works with me! I have to see if I can find some other people too haha because she said I need like 10 but I don't think I can find that many
+Mike: haha, it is a lot but we can try 
+Jess: yes haha it will end up being the two of us :P
+Jess: hey I didn't get a chance to talk to you today, if you still wanna do the training what about the 17th I sent a email and im waiting to here back
+Mike: at 2pm?
+Jess: I asked about 3pm but maybe if we go right after we can go earlier, but they may not write back
+Mike: really? so what we should do if for example some people do not speak polish? 
+Jess: yeah idk we shall see best to just wait I think
+Mike: I think so lets just wait a few days...
+Jess: I got a email back so we are good for Wednesday at 3pm :)
+Mike: cool thanks!
+Mike: is that time reserved only for us or we can take more people?
+Jess: no more can come, she said if we found more people it be better anyways 
+Mike: wow, super thank you 
+Jess: how many other people want to come?
+Mike: just asking idk yet but I think not many like 2-4
+Jess: ahh ok its fine I can send a email to check but I think its not a problem
+Mike: ok, don't send, we will rule this situation :)) thx ","Mike and Jess wanted to take training in English. They needed a group of about 10 people, but it was unlikely to happen. Eventually, they will have a training on Wednesday at 3pm.",0.4267024120298742,0.2061855643957912,0.683471383655096,0.3196604697330336,0.012324
+LANGUAGE,M3,"Dom: what we need to do for english lessons?
+Nick: an essay about the article
+Dom: which article?
+Nick: she send us on mail
+Dom: i don't have any!
+Nick: check in spam
+Dom: oh, true
+Dom: how many words?
+Nick: 2500",Dom and Nick will write an essay of 2500 words about the article she sent them.,0.6838315263429959,0.2745097996155325,0.5798331578602436,0.5391836338674788,0.0
+LANGUAGE,M4,"Emily: Do you speak any other languages than English?
+Jem: Well, we had Spanish at school, but I don't remember much.
+Cory: Same here. We had French.
+Emily: I'm thinking of learning a foreign language :)
+Jem: Have you decided yet?
+Emily: Unfortunately, no.",Jem learnt Spanish and Cory had French. Neither of them remember much. Emily is thinking of learning a foreign language but she hasn't decided which one.,0.6851945391281182,0.4062499952392578,0.7236538148527458,0.6223084079790573,0.135306
+LANGUAGE,M5,"Jon: Hi! I saw you were looking for a Swedish-speaking person. Here I am! What's up?
+Rory: Hey Jon!
+Rory: Thanks for your message
+Rory: Have you got any experience in translation of a web page then placement on translated text in to code?
+Jon: Nope, I have never dealt with translations of this sort so far.
+Rory: Well, I guess I can shoot you an email with what i need and you can see if you can manage it 
+Rory: If that's ok.
+Jon: That sounds like a good idea
+Jon: There you go: jon.jonsson (at) gmail.com
+Rory: And if it's not interesting, I appreciate this as well.
+Rory: Perfect thanks will send it to you by the end of the day or first thing tomorrow.
+Jon: Thanks so much! I'll let you know as soon as I chew it over. ",Rory is looking for a Swedish-speaking translator for a website. He will email Jon the details tomorrow morning.,0.4994473928490304,0.1344537791850858,0.7414918092083707,0.3431671632894566,0.019295
+LAW,M1,"Manuel: Hi there. I'm interested in your flat that you have on AirBnB.
+Kimberly: Hi! Yes, what dates did you have in mind?
+Manuel:  From the 12th to 19th of July. 
+Kimberly: Those dates are still free if you wish to have them. Will it be just you?
+Manuel: It will be me and my wife. 
+Kimberly: Ok it will be my pleasure to host you two if you so want!
+Manuel: We looked at a lot of places to stay and your flat looked really clean and confortable. Plus it's in a good location right in the center of the city.
+Kimberly: Thank you :D If you want to call me so we can talk a little bit better, my number is ***********.
+Manuel: Thanks, will do.",Manuel books the flat from the 12th to 19th of July. He will arrive with his wife.,0.4700331943475521,0.179999997312,0.5997756864476572,0.2796678328813147,0.039126
+LAW,M2,"Illa: hi man! wassup
+Trek: wassup man!
+Trek: wanna come?
+Illa: comin'",Illa is coming to Trek.,0.7637076156160463,0.0,0.300520787260157,0.3563004293331381,0.0
+LOC,M1,"Frances: I have that dictionary, let me know if you need it
+Frances: <file_photo>
+Agnes: wow great, yes I do need it just for a couple of days!
+Frances: I have a meeting next to your office today
+Agnes: what time?
+Frances: 1:30 pm
+Frances: but it's like 15 or 20 minutes
+Agnes: where exactly?
+Frances: I will come to your office when I finish
+Agnes: ok if its not a problem
+Frances: no problem at all
+Frances: I will call you 3min before
+Frances: lets meet downstairs
+Agnes: ok I have a meeting at 2:30
+Agnes: if you come later theres a reception downstairs and I can ask them to keep it for me
+Frances: ok but I'm pretty sure I can be there before 14:00
+Agnes: thanks a lot!
+Agnes: I think I can return it after the weekend, is that ok for you?
+Frances: sure, I dont think I need it next week
+Frances: I hope its useful
+Agnes: I just need all available sources for this project
+Agnes: so I'm very grateful... whatever works you know...
+Frances: maybe you should try to talk to Lucas, I believe he has some experience
+Agnes: yes but he's on holidays now, will be back next week
+Agnes: at least he will take a look and give his opinion
+Frances: ok have to leave now, seeya later",Frances offers Agnes to bring a dictionary she needs as a source for the project to her office today. She has a meeting not far from it and will be there before 14:00. Agnes can keep the book for a week or longer. She will ask Lucas after he is back from holiday to give his opinion on the project.,0.5002953958811431,0.3571428531129535,0.7835469845960765,0.3670715688784196,0.0
+LOC,M2,"Bartek: hey dad! Look at this
+Bartek: <file_photo>
+Tomek: What's that?
+Bartek: just open the picture so you can see
+Tomek: How to open the picture?
+Bartek: geez, just click on it
+Bartek: what do you think?
+Bartek: dad?
+Bartek: are you there? 
+Bartek: let me call you
+Tomek: No, it's fine. The picture become bigger but I couldn't write you any message
+Bartek: good you figured out how to close the picture. I was afraid you're going to say your phone is broken and I need to get you new one
+Tomek: Haha, very funny. So what is this picture related to? 
+Bartek: it's me in Greece! On the boat! Can't you see?
+Tomek: I didn't watch carefully
+Bartek: ...
+Bartek: you didn't manage to open the picture, did you?
+Tomek: no :(","Bartek sent a photo of him in Greece to his dad, Tomek. Tomek did not know how to open the picture.",0.6909281204784571,0.1333333303691611,0.7063546070518116,0.5316787239716511,0.0
+LOC,M3,"Mackenzie: LOOK! <file_photo>
+Mackenzie: It's Hailey!!
+Julia: :o what magazine is it?
+Julia: is she a model??
+Mackenzie: ""Elle"" :)
+Mackenzie: Apparently. :D I'm as surprised as you are.
+Julia: i need to do some fb stalking
+Julia: SHE'S A PROFESSIONAL MODEL :o
+Julia: and she's married!!
+Mackenzie: wow :o that's some news!","Hailey is a model on ""Elle"" magazine as Mackenzie discovered. Julia looked for more information on Facebook. Hailey is married and she's a professional model.",0.6036230174388479,0.2333333288888889,0.595520768378973,0.4877265486451641,0.0
+LOC,M4,"Agnes: Why don't you send me some pics of your new flat?
+Matilde: Sure, just a moment. 
+Agnes: Wow, the interiors are fab! Who designed them?
+Matilde: Well, just me and Marco.
+Agnes: Compliments! You did a great job! Where did you find all the inspirations?
+Matilde: First I was just scrolling Pinterest and Instagram and then looking for some original pieces of furniture on the flea market and on the Internet. It took some time, though.
+Agnes: Well, you should share some of your research! I'm about to buy a flat myself and I'm lost when it comes to interiors...
+Matilde: Sure, no problem! Just look me up on Pinterest and Instagram: mati.sim
+Agnes: OK! Will do!
+Matilde: Tell me about your flat - the one you wanna buy.
+Agnes: Three rooms, a cozy kitchen, a big bathroom and a balcony. 3rd floor, sunny.
+Matilde: Any pics?
+Agnes: Wait...
+Matilde: When they will give you the keys?
+Agnes: In few months. Now, I'm focusing on planning the bathroom, it's the tricky one... I can't decide between a tub and a shower...
+Matilde: I'd opt for a shower. 
+Agnes: I'm in two minds: I always preferred a shower, but pampering yourself with a hot tub and candles...
+Matilde: Haha, I totally get it!
+Agnes: I am also thinking about a big wardrobe/ storage room - if I'd like to rent the flat it could be a big plus.
+Matilde: What do you mean?
+Agnes: I could put all my stuff in the storage room and ciao! Off to a hot destination :)
+Matilde: Sounds like a plan!","Matilde and Marco decorated their house by themselves, and Agnes is impressed. Agnes wants Matilde to give her some tips as Agnes is about to buy an apartment. Matilde advises her.",0.6955284924108852,0.0769230747150103,0.7235048974638084,0.4990914067847417,0.0
+LOC,M5,"Jake: SpaceX just launched another rocket.
+Jake: I'm really curious if they will manage to launch people to Mars as they announced
+Max: I doubt it
+Max: Decision making leaders are too far engaged in waging war here on Earth
+Max: If they just focus on science and space exploration instead, there could be a chance
+Max: But in this situation
+Max: It's highly doubtful
+Jake: I can't wait to see first men on Mars
+Jake: And even more I can't wait when they launch James-Webb Telescope
+Jake: They need to replace broken Hubble Telescope
+Max: Yup. Hubble is broken now, so I think they are really need to hurry up.
+Jake: Imagine what photos of the universe this new technology will make!
+Jake: What new things we can learn about space
+Jake: I'm thrilled to bits when I think about it!
+Max: Yeah. This seems great!
+Max: I really love the idea that we will live in times of such great discoveries.
+Jake:  I hope humanity will understand that it's far more important than political confilcts.
+Max: Maybe when our generation will gain power and priorities will change
+Max: I'm looking forward.
+Jake: I hope it happends sooner than later,
+Jake: <file_other>
+Jake: Meanwhile in Ukraine :/
+Max: Ehh....
+Max: Seems like we will have to wait few more years,
+Jake: Shit happens :/",Jake and Max hope that their generation will focus more on the research in space rather than on wars on Earth and political conflicts.,0.3883245051626217,0.1749999977195312,0.7099645126112186,0.3697723877275046,0.0
+MONEY,M1,"Allan: All very laudable & that but it's still the equivalent of less than £1 from each citizen of the UK. And this government recently found £1billion to get the DUP onside.
+Tamara: And yet it's not for every single person in the UK. Not everyone needs help from charity
+Allan: Sorted. I think. 😍
+Steve: Have a fundraiser for the NHS.
+Toni: Steve Denton good idea
+Ian : Have a fund raiser for a Trident replacement.
+Ian: Fund the NHS with the money we save not replacing Trident.",The government found £1billion to help the DUP while they decided to give less than £1 a citizen for charity. ,0.3460874727034062,0.3146067380886252,0.7990934425794616,0.21159833660337,0.0
+MONEY,M2,"Ashley: Hey
+Ashley: Can you lend me 50 dollars i'll refund it by weekend
+Faith: Hey
+Faith: Is it urgent cause it's in my bank account and I am at my house currently
+Ashley: No rush
+Ashley: You can just send it to me later
+Faith: Okay
+Ashley: Thanks BTW",Faith agrees to lend Ashley 50 dollars until the weekend.,0.5786630655886236,0.2040816294044148,0.4024625110632332,0.4889262376580335,0.0
+MONEY,M3,"Greg: Hello Sophie.
+Sophie: Hello, Greg. Great surprise.
+Greg: Why would you say that?
+Sophie: Didn't think you still have my number.
+Greg: Of course, I do.
+Sophie: Thought you'd rather forget me asap.
+Greg: Never. I still think about you.
+Sophie: I thought, I made it quite clear, you never should.
+Greg: Well, you did, in a way.
+Sophie: Greg, I slapped you in a face and told to get lost.
+Greg: Fact.
+Sophie: Just a reminder, I've done in front of the whole office.
+Greg: That you did.
+Sophie: So what the fuck do you want now?
+Greg: Like I said I was just thinking about you.
+Sophie: Well, don't!
+Greg: And I remembered, that the last time we had this dinner...
+Sophie: Yeah?
+Greg: I paid for the whole bill remember?
+Sophie: Yes. And?
+Greg: Well it was 180 bucks. I thought we might as well split it.
+Sophie: Now I am even more surprised. Ok. Give me your bank details.
+Greg: Actually, I'd prefer cash. Let's meet.
+Sophie: Where?
+Greg: The same restaurant. You pick the time.",Greg and Sophie broke up in a dramatic way in front of their co-workers. Now Greg wants to split a 180-dollar bill for a dinner they ate together. He wants to meet at the same restaurant and get his money in cash.,0.440196415359585,0.2597402562995446,0.5866895429602591,0.3842115270737336,0.0
+MONEY,M4,"Lola: Hi!
+Matilda: Hi, Lola.
+Lola: Can you change a bill of 100$?
+Lola: I'll be home in a few minutes
+Matilda: Sorry, I don't have cash. 
+Lola: It's ok, I'll pop in to the grocery store
+Lola: Do you want something?
+Matilda: No, I'm ok. But thanks.",Lola is popping to the grocery store to change a 100$ bill. She will be home soon. ,0.4976453567989793,0.3636363593652892,0.6082107386732821,0.3553305367590461,0.064335
+MONEY,M5,"Ina: Hey babe, I'm at the doctor's :) I was £10 short, so i hope you don't mind that i nicked 10 quid :*
+Eddie: Hey, sure - it's not problem, love :) Good luck at the doctors - hope they figure out what's been bothering you xx
+Ina: Thanks! Here's to hoping it's nothing serious :)
+Eddie: are you sure you don't want me to come get you? You haven't been yourself l8ly
+Ina: Positive! I'll be fine, but thanks for the offer :D
+Eddie: Anything for my girl ;)","Ina took £10 from Eddie for a doctor's appointment. Eddie wants to come for her later, but she doesn't need it.",0.5927296086397057,0.1348314573159955,0.7100931647279067,0.2821126606794968,0.0
+NORP,M1,"Hilary: Can you pick up Sean?
+Bill: let me check 
+Bill: I have to move a meeting to pick him up
+Hilary: Is it very imp cuz I don't have anyone else to ask
+Bill: it's not a problem I'll pick him up
+Hilary: thanks",Bill will pick up Sean on Hilary's request.,0.6839551117779743,0.1025640993030901,0.578735828106546,0.5041183808824257,0.0
+NORP,M2,"Christian: Pizza tonight?
+Robert: NICE!!
+Christian: Hawaii?
+Robert: always!",Christian and Robert will have hawaiian pizza tonight.,0.6649151294781553,0.0,0.2095847673118283,0.6571625092584744,0.0
+NORP,M3,"Han: Have you seen Emma recently?
+Sebastian: no, I'm in Berlin
+Kate: I have to see her every week now
+Han: Why?
+Kate: She wants it
+Han: Any idea for what reason?
+Kate: it's my 3rd year
+Kate: she wants to control me
+Han: which is not that bad after all
+Kate: but very stressful
+Kate: you know how critical she can be
+Han: very
+Sebastian: which is also her huge advantage as a supervisor","Sebastian is in Berlin. Kate believes Emma, her supervisor, wants to control her.",0.4224636502946082,0.2028985478512917,0.6456511538684225,0.4212497805368634,0.0
+NORP,M4,"Lia: Are all of the things served there Polish?
+Marion: hahah, I doubt
+Tomasz: I have never drunk vodka with milk
+Tomasz: so I'm not sure really
+Patty: and the sausages?
+Tomasz: yes, they are fairly Polish
+Marion: and the strange thing like sponge in chocolate?
+Tomasz: it's called bird's milk hahaha
+Marion: sorry, it's quite disgusting
+Marion: but vodka is delicious hahaha
+Tomasz: I like the sweet
+Tomasz: reminds me of my childhood, but most of foreigners dislike it indeed
+Marion: but they like vodka :P
+Tomasz: LOL","Lia, Marion, Patty and Tomasz are in a place where Polish food and drinks are served. ",0.6195745747846911,0.1315789442001385,0.6037064839458093,0.365152267467386,0.0
+NORP,M5,"Harper: You heard about this brand new app? 
+Conor: Which one?
+Harper: It's name is Reddit
+Conor: and why do you find it interesting?
+Harper: Its much like Facebook but with some extra features,
+Conor: Who told you about it?
+Harper: I just saw ad on Facebook and downloaded it
+Conor: I might not be able to do that because My storage is already full 
+Harper: I wanted you to follow me :/ :P
+Conor: Haha
+Harper: I might not be able to use Facebook from tomorrow
+Conor: My dad is against it and says I should spend more time studying
+Harper: But socializing is also important
+Conor: I tried to tell him that but he refused to listen :/
+Harper: Oh Man :/ 
+Conor: Don,t worry I will be using it again after my finals
+Harper: Right
+Conor: Have you prepared the lesson test for tomorrow?
+Harper: I almost forgot about that, Thanks for making me remember",Harper downloaded Reddit. Conor cannot do it as his storage is full. Conor reminded Harper to prepare the lesson test for tomorrow.,0.7377835204527569,0.213114751357162,0.7859856486182756,0.6207948072935214,0.01911
+ORDINAL,M1,"Raghav: Can you please slow down the volume of the television?
+Purvi: Just a second, here I did.
+Raghav: Thanks dear.",Raghav wants Purvi to turn the TV down.,0.6414633381539101,0.1481481439780522,0.6182215598125987,0.2336333888044564,0.0
+ORDINAL,M2,"Gael: Hey, I'm not quite sure which video we should use for the lesson today
+Gael: There is quite a lot to choose from, but some may not be as relevant
+Gael: What's your opinion?
+Radcliff: Hmm.. I'm not sure either, maybe we could do some brainstorming..
+Gael: Good idea! I have a few steps listed already..
+Radcliff: We can improvise, let's have a think about it 
+Gael: Actually the last time I did this kind of class, it went very well, and most of the information we had was all improvised :)
+Radcliff: I'm sure it will be ok with a few improvised moves, it's just the first lesson anyway 💃
+Gael: I'll bring along my notes and we can meet up in the area by the wooden flooring
+Gael: It's a really good spot with an ample amount of space :)
+Radcliff: Do you mean the one which is on the left when you arrive by the pond?
+Gael: Yes that's it ;)
+Radcliff: Ok :)
+Gael: Send me a text when you leave home 👍
+Gael: Oh, can you please bring along the extra pair of shoes, Mandy is probably coming too
+Gael: She arrived yesterday :)
+Radcliff: Ok, will do ;)
+Radcliff: Good luck with all the meetings today 😛
+Gael: 😒",Gael and Radcliff have their first dance lesson today. They have to decide which video to use. Radcliff will bring an extra pair of shoes for Mandy who will probably also join them.,0.6104715539734433,0.2168674669959356,0.811564422759107,0.4396985198669409,0.0
+ORDINAL,M3,"Damian: So, how was your first day as a teacher? :)
+Josiah: It was ok. :)
+Josiah: The kids are great, the headmaster - really cool, my fellow teachers - grumpy, but bearable. 
+Josiah: I was really surprised though, that there are hardly any young teachers in this school. 
+Damian: Hmm, that's strange indeed...
+Damian: What's their average age?
+Josiah: 50-60. There are just four teachers at my age...
+Josiah: I don't feel very comfortable with it, but I guess I'll have to get used to it.
+Damian: I hope you'll get along with everyone despite the age gap. ;)
+Damian: Don't worry, you'll be fine. :)
+Josiah: Thanks! :)","Josiah liked his first day as a teacher. The other teachers are around 50-60, and only 4 teachers are his age. ",0.5439972592490695,0.163265302996668,0.6447187447573602,0.3959083576923067,0.024986
+ORDINAL,M4,"Tangia: How was the first saxophone class?(@^^)/~~~
+Tangia: Did you learn ""do, re, mi, fa, sol, la, si, do""?(*^0^*)
+Yuette: No of course not. 
+Yuette: Not yet(^^ゞ
+Yuette: A bit of theory and how to make sound
+Yuette: Most of the people couldn't make any sound 
+Yuette: Cause you need to breathe with your abs
+Tangia: Wasn't it challenging?
+Yuette: It was!!!
+Tangia: Didn't you say saxophone was expensive?
+Yuette: Yes if you buy used one it costs 700 to 800 dollars but new one costs 1000 dollars
+Tangia: Too expensive!!😱😱😱😱😱😱😱😱😱😱😱😱😱😱
+Tangia: Isn't there any thing for practice?＼(-o-)／
+Yuette: It also costs 500 dollars but the instructor said it isn't a good idea to buy saxophone for practice
+Tangia: Why so?(・∀・)
+Yuette: Cause you cannot re-sell it and use it for a long time
+Tangia: What if you don't wanna learn saxophone anymore?(p_-)
+Yuette: Then you can sell it as a used one(ーー;)
+Tangia: So do you think you don't need to sell your saxophone till now? XD
+Yuette: Well I guess I should wait and see 
+Tangia: Hahahaha😙😙😙 but nice you started to learn new instrument",Yuette's first saxophone class was challenging. Saxophones are expensive.,0.4856182689568011,0.0499999986125,0.5186606281731113,0.3137284869116748,0.0
+ORDINAL,M5,"Clair: I've written: That is truly satisfying to us. We shall be a merciful ruler. My first royal decree shall be that the day of my ascending shall be from that day forth a day of national remembrance and no man shall have to be forced to work on that day.
+Bob: You truly are merciful!
+Denis: Can't. Stop. Laughing!
+Clem: Shsh! Sending it now! Let's see how he likes it ;)
+Bob: You're evil ;) 
+Clair: I know :D",Clair has written a funny message.,0.2289829552635904,0.0303030286501378,0.6434914450060715,0.1056998152956964,0.0
+ORG,M1,"Justin: hey, how are you?
+Katie: hello <3 I'm drinking some beer and finally trying to do something with my earplugs. and you?
+Justin: Oooo sounds cool. I had a very busy day, just spent the entire morning in the fields, you know, preparing everything for the winter
+Katie: my poor :/ you must be really tired right now
+Justin: yeah. I am...but I have a beer too B-) Cheers!
+Katie: nice, I'm sure it'll cure you :D
+Justin: I hope so
+Katie: Love you <3
+Justin: looove you <3 maybe we'll go to the cinema this week?
+Katie: Oh, sounds awesome :D But on which day?
+Justin: Don't know it yet. I'll check the programme first.
+Katie: Sure. We could also go to the restaurant, or for a coffee
+Justin: Of course, anywhere you want <3
+Katie: Cool :D What are you doing now?
+Justin: Just resting in front of TV, I'm so tired I literally don't feel my hands and legs
+Katie: Very well, I hope you'll be sleeping well tonight
+Justin: for sure, I always fall asleep quickly after a tiring day
+Katie: Good to hear that. What time will you be home tomorrow?
+Justin: Not sure but I guess that somehow in the evening, as always. 
+Katie: Ok, just let me know cause I'd like to go and do some shopping cause we need some food.
+Justin: Of course, we'll go together and buy everything we need. Food only?
+Katie: I guess that apart from food we have everything...but I'll think again.
+Justin: Cool. Ok I feel I need some shower. I'll call you soon after
+Katie: sure, have a nice shower :D love you <3
+Justin: Love you, 15min and I'm back ",Justin had a busy day in the fields preparing everything for the winter. Katie an Justin are resting drinking beer. Justin and Katie are going out this week. Justin and Katie are going grocery shopping tomorrow evening. Justin will call Katie after a shower.,0.8353702744299037,0.2142857116227613,0.7103014215501131,0.5882036594658471,0.014277
+ORG,M2,"Nitta: Hello Laura, would you mind if I pop in for a sec?
+Laura: By no means! Come along!
+Nitta: On my way.",Nitta will come and see Laura for a moment. ,0.7275065467484159,0.1249999957031251,0.6531488519643183,0.49089112270955,0.0
+ORG,M3,"Connell: So what's that thing with SJW? 
+Connor: Some university students promoting political stuff 
+Connell: So what the hell is sjw? 
+Connell: What's that stand for? xdxdxd
+Connor: Social Justice Warriors. They are very liberal, like NDP people
+Connell: Oh yeah. Kenzie is such an sjw, she posts political stuff all the time
+Connor: Hmm idk her
+Connell: Her posts are so childish and their posts are just so boring
+Connor: yeah the sjws attack the Conservatives all the time","University students involved in liberal SWJ promote political content. Connell is annoyed with Kenzie's political, boring posts.",0.479830863445185,0.1643835580709327,0.7754379851407509,0.3001901928267599,0.0
+ORG,M4,"Freddie: hey put channel 4 on
+Evelyn: I'm not at home, I can't do it XD
+Evelyn: what's on?
+Freddie: there's this interview I had a few weeks ago I told you about
+Evelyn: oh no, can't you record it?
+Freddie: it will be available in the internet, no worries :P","On Channel 4 there is an interview Freddie had a few weeks ago. Evelyn is not at home so she can't watch it, but it will be available on the internet.",0.7487357767577568,0.4444444395833333,0.7832530044703109,0.6464039857285617,0.108787
+ORG,M5,"Cathy: Hey, Melinda wants us to meet her and her husband for dinner on Thursday night. 
+Cathy: Are you up for it?
+Lewis: Melinda? Do I know her?
+Cathy: Lewis. My goodness. Yes, you know her. They were both at Jack's birthday party. 
+Lewis: Ha, there were a lot of parent couples at the party. 
+Cathy: He wore the Superman shirt and she was always correcting him. 
+Lewis: Ha, yeah, now I remember. 
+Lewis: Now I definitely don't want to meet them for dinner. 
+Lewis: Why would we do this?
+Cathy: She really likes us, and I think they are quite alright themselves. I couldn't really find it in myself to say no.
+Lewis: You really need to learn to be a bit more assertive. If I agreed to every request sent my way I would never sleep
+Lewis: There are so many other things I would rather do that night. 
+Lewis: How about you and me just go out and get dinner alone. I will do anything with you, just as long as I don't have to pretend to be friends with some people I have no interest in. 
+Cathy: Oh fine","Melinda wants Cathy and Lewis to meet her and her husband for dinner on Thursday night. The two couples had met at Jack's birthday party, where Melinda's husband was wearing a Superman shirt and she was always correcting him. Lewis doesn't want to meet them and prefers dinner with Cathy only.",0.685585657271307,0.3333333297052154,0.805428715847437,0.5558452491866432,0.110025
+PERCENT,M1,"Brit: there's a sale at sephora 
+Brit: you're eyeliner is 50% off
+Jessica: OMG 
+Jessica: thanks I have to stock up :P 
+Brit: no problem",There is a sale at Sephora and Jessica will use this occasion.,0.3693237901528998,0.2352941130795848,0.5979614353553865,0.254178626397095,0.0
+PERCENT,M2,"Wilma: Hon!!!!!!!!!! I haven't heard from you IN AGES
+Betty: I know!!!!!!! how are things???
+Wilma: good good missing my bestie though
+Betty: aww <3
+Wilma: wanna meet up this weekend?
+Betty: Ugh, pumpkin, I can't, my in laws are coming to visit...
+Wilma: ouch
+Betty: I know... The weekend after that?
+Betty: Saturday night?
+Wilma: I had plans with some people from work but I can move that to Friday I guess :)))))
+Betty: perfect, next Saurday then!!!!!!!!
+Wilma: <file_gif>
+Wilma: <file_gif>
+Wilma: <file_gif>
+Betty: Haha yes this is us
+Wilma: me with that huuuuuuuuuuuge wine glass
+Betty: and me dancing on the table
+Wilma: <3
+Betty:  <3",Betty can't meet Wilma this weekend. Her parents-in-law are visiting. They will meet on the next Saturday.,0.5732028267344148,0.1797752779497538,0.5284650299283169,0.3844525357551586,0.0
+PERCENT,M3,"Marge: tell grace im not comin 2day
+Parton: ru ok?
+Stanton: marge, would u miss?
+Marge: ill tell u l8r and call grace 2moro. have fun",Marge is not able to come today.  She will call Grace tomorrow. ,0.5404771848702903,0.1142857096163267,0.4735803962982157,0.2379194579042982,0.0
+PERCENT,M4,"Emily: ok I think I've got the dress
+Emily: I mean it's 75% ready
+Emily: but I'm not sure the fabric will do
+Emily: <file_photo>
+Gabriel: why?
+Emily: hmm it looks quite heavy
+Emily: and in fact it is
+Gabriel: hm it looks ok to me
+Evan: hm I thought it actually looked quite heavy when you sent the pic last time
+Evan: I mean it looked like comfy-soft, not smart-evening fabric
+Emily: hmmm
+Evan: why don't you make it into a skirt
+Evan: and but sth else for the dress?
+Emily: I don't think i have the money and time for that
+Emily: and I'm not sure if it really looks so bad
+Gabriel: looks fine to me
+Gabriel: i would leave it as it is","Emily's evening dress is 75% ready, but she's not sure whether the fabric isn't too heavy. However, she'll probably wear it. ",0.4039452791372617,0.2173913007088847,0.7642842683678013,0.2888558979235961,0.0
+PERCENT,M5,"Daniel: have you seen it ? new iphone is 30% off?
+Alec: i am still happy with my old one
+Jacob: where???
+Daniel: <file_other>
+Alec: aha, we've got a buyer :D
+Jacob: yeah i have been waiting for a deal like this",Daniel has seen a great deal on new iphone. Alec isn't interested but Jacob is as he has been waiting for a deal.,0.6252861579743311,0.3214285668367347,0.5802903200578372,0.481122674068928,0.066959
+PERSON,M1,"Teddy: How's life, Toby?
+Toby: Oh, I have to tell you that I'm suffering.
+Teddy: What happened?
+Toby: I have a dreadful pain in the back.
+Toby: I can barely breathe.
+Teddy: Any painkillers? 
+Toby: No, none, trying to be a hero.
+Teddy: What for? 
+Toby: That's a good question. Any recommendations?
+Teddy: Dexak. Life gets better afterwards. Wish it could work for all walks of it. 
+Toby: Haha, will try it out then! 
+Teddy: You won't regret it! ",Toby has a backache and will take Dexak to relieve the pain.,0.3575000256742047,0.1690140816980758,0.6941439512266608,0.2591889115327052,0.0
+PERSON,M2,"Lionel: come with your football later
+Leo: ok
+Leo: i will",Leo will go to Lionel with his football later.,0.8669118047568986,0.4210526265927978,0.2628542261016327,0.755474439421554,0.0
+PERSON,M3,"Luke: What is the best time to visit Mine?
+Molly: I think early autumn to see all the colours
+Luke: colours?
+Molly: yes, there are very few conifers in New England
+Molly: so in autumn you have this amazing brilliance of colours, from red to yellow and everything between
+Luke: sounds nice!
+Molly: <file_photo>
+Luke: wow, very beautiful
+Molly: yes, go there in late September","The best time to visit Mine is early autumn, when the trees are full of colours.",0.4001064623065724,0.3076923039810651,0.7967465458099531,0.2737578204988351,0.042696
+PERSON,M4,"Mary: Where are you?
+Tom: Dumbo
+Mary: Have you seen the museum there?
+Tom: Yes, I've just left
+Mary: and?
+Tom: I really liked it. Thank you for the recommendation 
+Mary: it's good, right?
+Tom: very nicely made and curated 
+Mary: yes, it's amazing
+Tom: especially the stories of the subaltern groups: women, slaves, workers
+Tom: and the history of the Brooklyn Bridge
+Mary: I know, and it's not very well known
+Tom: we were almost alone there
+Mary: did you pay for entrance?
+Tom: no, we showed our student cards and they let us in for free
+Mary: that's amazing
+Tom: yes, especially because New York is so expensive
+Mary: I know, all museums cost minimum 20 bucks
+Tom: Exactly 
+Mary: anyway, I'm happy you liked Dumbo
+Tom: Very much!",Tom really liked the museum Mary recommended to him in Dumbo. He got in for free using his student card. ,0.4360105551928682,0.1698113176931292,0.6134729006382271,0.3911994498284539,0.0
+PERSON,M5,"Tom: Where are you?
+Charles: I'm at the spire 
+Elisabeth: I'm coming! Give me 5 min
+Tom: ok, I can see you, Charles!",Tom is meeting up with Charles and Elisabeth.,0.6266010650285914,0.0,0.2914523391151875,0.5452535979648305,0.0
+PRODUCT,M1,"Claudia: hey, does anyone have a Zalando discount code?
+Kelsey: I do! but it's only for shoes
+Claudia: it's ok, was about to order some cute boots :)
+Kelsey: here you go: XSHOES25
+Jaylene: send us some pics when you get them ;)
+Claudia: I will! thank a bunch, Kel :)",Kelsey shared her Zalando discount code with Claudia.,0.6084220425173247,0.079999997312,0.5248280473472978,0.458450322804539,0.0
+PRODUCT,M2,"Cole: Hey babe ;)
+Morgan: Hey you :) whats up? 
+Cole: just wonderin if you've got plans for tonite ;)
+Morgan: soory, im meeting the girls :/ raincheck?
+Cole: :(
+Cole: Don't know if I can last that long x
+Morgan: poor baby :P ill make it up to you :)
+Cole: can't wait ;) 
+Morgan: get ur mind out of the gutter, babe
+Cole: ;)
+Cole: hwat about tomorrow?
+Morgan: cant - im visitin my nan's :> sorry...
+Cole: its alrite :) we'll talk when you get bck :)
+Morgan: :)
+Cole: hey babe...
+Morgan: yeah?
+Cole: stay safe tonight xx love you
+Morgan: love you to xxx",Morgan is seeing the girls tonight. Morgan is visiting nan tomorrow and will talk to Cole after that.,0.6556677038591067,0.1348314577250347,0.4488955756430239,0.4928725935638129,0.0
+PRODUCT,M3,"Suzie: wish we could talk face to face :P
+Cavill: If we were face to face talking's not the only thing id wish for ;)
+Suzie: elaborate :)
+Cavill: Id wanna go adventure with you of course!
+Suzie: what's wrong with looking into each others eyes ;)
+Cavill: Haha with your eyes that would count as an adventure :*
+Suzie: smooth :D
+Cavill: haha talk to you soon
+Suzie: yeah better get goin",Cavil and Suzie are flirting.,0.3454148331472569,0.0,0.4975343869027332,0.1769391270515773,0.0
+PRODUCT,M4,"Amka: Have you ever been to Erasmus? 
+Amka: and how are you spending Halloween?
+Mick: I've never done any student exchanges before.
+Mick: That sounds like a lot of fun.
+Mick: It's good you're doing a lot of this.
+Mick: T'll make your CV 10x better.
+Mick: Im'm gonna go to da club with my friends for Halloween loool
+Amka: I propably won't dress up.
+Mick: There was a plan for me to go to London for Halloween 
+Mick: with my grandparents
+Mick: But my grandma is having some health issues 
+Mick: and the plan does'nt exist anymore
+Amka: :(
+Amka: Aaahhh, I'm sorry to hear that. I hope she's feeling better  <file_gif>
+Amka: What are your plans now?
+Amka: Just gonna stay in?
+Mick: Yeah
+Mick: nothing special <file_gif>
+Amka: Fair enough I never used to do anything for Halloween.
+Mick: in Poland we actually don't celebrate Halloween and don't do all this dressing up, pumpking curving and so on. 
+Mick: on November 1st we just go to the cementary with our families and after that spend time together.
+Amka: I like it.",Amka is doing a lot of student exchanges. Mick isn't going to London due to his grandma's health so he's gonna stay in. Amka never used to do anything for Halloween.,0.6753809826752871,0.2721088404535148,0.8244279408112585,0.5186753900914561,0.05133
+PRODUCT,M5,"Adrien: I've binge watched the Crown
+Max: What? so booooring
+John: hahahah
+Adrien: I've watched the whole Netflix I believe, only the Crown was left",Adrien has binge watched the Crown. Max finds it boring.,0.6920397696059433,0.2758620644470868,0.647889883291108,0.4602609104382782,0.0
+QUANTITY,M1,"Sash: need to see u
+Caron: y
+Caron: i'm out from 12
+Sash: will be before
+Sash: then
+Caron: k
+Sash: open the door:
+Caron: what time u coming I need to go out
+Sash: soon
+Caron: hurry up I need to go out","Sash needs to meet Caron, so she decides to come to Caron before 12, when Caron's out. Caron wants Sash to hurry as she need to go out.",0.8507193092876446,0.2553191440470802,0.5308234969422775,0.7250577001711989,0.0
+QUANTITY,M2,"Alex: I lost 5 pounds
+Rita: wow
+Rita: amazing
+Rita: how?
+Alex: the new diet I told u :D
+Rita: it's that effective?
+Alex: yep
+Alex: told u u should try :)
+Rita: maybe, I'll wait a little it's only 2 weeks
+Alex: as u wish
+Alex: but don't wait 2 long
+Alex: summer is near :D
+Rita: I know, I'll think about it",Alex has lost 5 pounds of weight. Alex recommends her diet to Rita.,0.6154647968087208,0.1481481446913581,0.2983137065227109,0.555769389653054,0.0
+QUANTITY,M3,"Melany: Hey. How much did u pay for that card? 28 euro? Because on the website it is said a ticket for people up to 26 years costs 28 euro
+Brenden: Hi. Yes 28
+Melany: But why? U aren't 26 anymore
+Brenden: I'll be 27 in june
+Melany: Yes but it means u are 26 + some months which means u are elder than 26. At least in poland it is counted like that
+Brenden: I' m 26 now
+Melany: + some months. So it is ur 27th year
+Brenden: So up to 26 means 26 included. Yes",Brenden has bought that card for 28 euros. Melany believes Brenden is too old to travel on a reduced fare.,0.4742111491517304,0.1707317037566925,0.7587755112959482,0.228418708677245,0.0
+QUANTITY,M4,"Elaine: Aunty Paaage
+Elaine: The baby has grown 5cm now..and it is already stretching :)
+Page: Oh wow, that's so cute 😍
+Page: Time is really flying by..
+Elaine: I'll send you a picture of the scan later on ;)
+Page: Yes please do!",Elaine's baby has grown 5 cm and is stretching. She will send Page a scan later. ,0.6676268195272463,0.3508771887965528,0.6289495619205401,0.5500982055998279,0.0
+QUANTITY,M5,"Makayla: Hey! :)
+Makayla: I've got a discount for yoga and meditation classes for 2
+Makayla: All classes take place take place at yoga studio near post office.
+Makayla: Wanna sign up?
+Stella: hi :)
+Stella: i wish i could, but i still haven't recovered from my back injury :(
+Stella: my doctor says I can only swim and walk
+Makayla: Wow, you had that accident months ago!
+Makayla: I hope you'll get better soon. :)
+Stella: thanks, me too :)
+Stella: have fun at these classes and learn all these fabulous yoga poses ;)
+Makayla: thanks!
+Makayla: next time you see me I'm gonna look like this XD
+Makayla: <file_photo>
+Stella: haha :D hope so!","Makayla has a discount for yoga and meditation classes and she invites Stella to sign up. Stella can't go, because she hasn't recovered from her back injury yet.",0.6194086856121336,0.2242990618394619,0.6311832679779553,0.5295990902583261,0.060746
+TIME,M1,"Oscar: guys, come over to see a movie tonight?
+William: what movie?
+Oscar: i was thinking blade runner 2?
+James: yeah, what movie?
+James: ok
+William: mmm sure, wanted to see that for a long time now
+Oscar: great! it's quite long, let's meet at 7?
+James: i can come at 7:30
+William: yeah 7 is fine
+Oscar: ok, 7:30 then. bring lots of beer :D
+James: roger that
+William: :D","Oscar, James and William will see Blade Runner 2 tonight. They will meet at 7:30. They will drink beer.",0.6268875800602941,0.1492537277077301,0.656671507112956,0.4990623483375482,0.0
+TIME,M2,"Leland: Did you go out last night ?
+Fernanda: No... I came back home at 22.30
+Leland: Hmm ok",Fernanda didn't go out last night. She came back home at 10.30 p.m.,0.5239127248728984,0.5294117597750866,0.7252111499537743,0.3664231981525372,0.183294
+TIME,M3,"Amber: Do you want to go to the laundromat with me tonight?
+Chris: I would like to but I have to stay longer at work 
+Amber: pity, don't you need to wash your stuff
+Chris: I do need, but I have no time
+Amber: I can wash them with my things
+Chris: really? That would be so nice
+Amber: Sure, I can
+Chris: There is a bag in my room, a big plastic one
+Amber: ok, i have it!
+Chris: Thanks a lot!
+Amber: you're welcome!",Amber will do Chris's and her laundry in the laundromat. Chris has to stay longer at work. ,0.6303840722329871,0.239999996352,0.6528275796113437,0.5549660860470685,0.03013
+TIME,M4,"Nate: who's the dj tonight?
+Victor: MirDom
+Victor: Whoever he is
+Nate: is he any good?
+Susan: <file_video>
+Susan: <file_other>
+Susan: He was in the Ministry of Sound last week, sounds cool
+Nate: Hm... a bit too electro
+Victor: what did you expect? :D
+Nate: I was looking for something more vintage
+Susan: So maybe the Stables?
+Nate: What's on there?
+Susan: It's electro swing night
+Susan: <file_other>
+Victor: weird, but cool, reminds of BioShock
+Nate: yeah! please let's go there",MirDom is the DJ tonight. Tonight at the Stables it's electro swing night.,0.3419167216450242,0.1666666638888889,0.5697267150982941,0.1855816588434056,0.0
+TIME,M5,"Emily: Finally on the flybe plane that has been delayed for an hour because of technical hitches! I joked with the flight attendant when boarding 'so plane all sorted now?' His response was 'we'll soon see'!!!! 🙈🙏🏻🙈🙏🏻
+Andrew: You did know they are known as Fly Bloody 'Ell. 😂😱
+Emily: Thanks... another reassuring comment 🤔
+Andrew: They are in the top ten of safest low cost airlines in the world. I would only argue with the 'low cost' tag 😂",Emily's plane was delayed for an hour. She's now on board. ,0.3258292919372883,0.17499999745,0.6207408989159853,0.2661342932858658,0.0
+WORK_OF_ART,M1,"Lorelai: I can't believe you lied to me
+Emily: I didn't lie, I kept information from you
+Lorelai: Information that as your sister I should have!!
+Emily: Information that was totally private and did not concern you
+Lorelai: how rude
+Emily: You need to learn to have boundaries!!!
+Lorelai: Obviously I am the only one that cares in this relationship
+Emily: Oh dear lord",Emily kept some information from her sister Lorelai. They are arguing because of it.,0.6368958049535851,0.1311475374469229,0.692603061934699,0.555355762457074,0.0
+WORK_OF_ART,M2,"Lucas: There is pizza downstairs!
+Mike: Uhuuu
+Bella: I'm coming!!! ","The pizza for Lucas, Mike and Bella has arrived. It's downstairs.",0.6627359284456512,0.0952380902494333,0.2605949613624944,0.6327904583679945,0.0
+WORK_OF_ART,M3,"Carmen: have you seen my Victor Hugo book?
+Carmen: I think someone borrowed it or I left it while moving out
+Clarissa: nope
+Karol: it looks familiar, I'll ask Romek if he has it
+Agata: I borrowed it a while ago but I returned it
+Carmen: thanks Karol I appreciate that
+Carmen: I need this book for my architecture class
+Agata: so I guess you still had this book when you were living in Brooklyn
+Karol: architecture class?
+Carmen: so I should ask Mike if he saw it
+Carmen: Hugo described many buildings in a great detail
+Karol: lol that's why it was too boring for me to read :p
+Agata: don't insult the master
+Carmen: ...
+Karol: so should I ask Romek about it or there's no need?
+Carmen: Romek won't have it, it must have stayed in my Brooklyn house or someone borrowed it after Agata
+Agata: maybe you left at your bf's place
+Carmen: my ex bf you mean
+Carmen: looks like I have to text Mike
+Karol: good luck with your detective work
+Carmen: thanks
+Agata: <file_gif>","Carmen is looking for her Victor Hugo book. He described many buildings thoroughly. She needs it for her architecture class. Agata had borrowed it, but she had returned it. Carmen will text Mike.",0.6023256819186265,0.274809156944234,0.7781822313817888,0.4937334572154014,0.0
+WORK_OF_ART,M4,"Kayla: Hey look
+Kayla: <file_other>
+Kayla: they're playing Love actually in the cinema next week <3
+Johnny: Kayla, we've seen it thousands of times
+Johnny: <file_gif>
+Kayla: so you don't want to go?
+Johnny: Sorry honey, but there are many other movies we haven't seen..
+Kayla: whatever
+Kayla: <file_gif>","Johny doesn't want to go for Love actually to the cinema, because he and Kayla have already seen it many times.  ",0.4873395067568289,0.2950819626981994,0.5883034676483034,0.4082624339792177,0.0
+WORK_OF_ART,M5,"Megan: Dear Emma, I hope you're fine. It would be great to meet again.  On Monday, Nov. 12th, there's a concert in the Concert Hall with a very promising program. In case you'll be there, how about meeting there for a chat before the concert? It would be great.
+Emma: Hello dear Megan, yes on 12th Nov I'll be going to the concert. We could also meet as early as 5 pm.
+Megan: That sounds good. I'd love to. What would you suggest? A nice cuppa somewhere?
+Emma: 5 pm in the Old Town Cafe?
+Megan: Where's the Old Town Cafe? OR They have superb champagne apple tart at Wiener's. This old-fashioned place opposite Waterstone's bookstore.
+Emma: Then let's go to Wiener's! See you there!
+Megan: Shall we make it 4:30?
+Emma: Sorry I won't make it. Have to be in hospital till 4:30.
+Megan: Then 5 pm. Still a couple a hours till the concert.
+Emma: Will you want to attend the intro before the concert?
+Megan: Well I usually do.
+Emma: I'd love to this time. It'll be a short lecture on John Cage. Quite curious about him.
+Megan: Very well. Then till Monday!
+Emma: See you Megan!","Megan will meet with Emma at 5 pm on Monday, 12 November. They'll meet in Wiener's for some apple tart. Next they'll attend a concert in the Concert Hall. They'll also listen to a lecture on John Cage before the concert.",0.572986034160996,0.2944785243057699,0.8095457668356534,0.4919895283746198,0.033138
